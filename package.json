@@ -1,0 +1,19 @@
+{
+  "name": "kanban-realtime",
+  "version": "1.0.0",
+  "description": "web based kanban realtime application using vue.js and firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haripermadi/kanban-realtime.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haripermadi/kanban-realtime/issues"
+  },
+  "homepage": "https://github.com/haripermadi/kanban-realtime#readme"
+}

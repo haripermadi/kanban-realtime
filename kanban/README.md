@@ -1,5 +1,6 @@
-# kanban-realtime
-web based kanban realtime application using vue.js and firebase
+# y
+
+> A Vue.js project
 
 ## Build Setup
 
