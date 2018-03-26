@@ -145,12 +145,12 @@
 import * as firebase from 'firebase'
 import swal from 'sweetalert2'
 const config = {
-  apiKey: 'AIzaSyAL-Vr6SGaLzinNRNmAVX5UmDdeT5FWrQI',
-  authDomain: 'todo-fancy-198007.firebaseapp.com',
-  databaseURL: 'https://todo-fancy-198007.firebaseio.com',
-  projectId: 'todo-fancy-198007',
+  apiKey: 'AIzaSyCbuCZPE9M6bn_OZ49hUM0bp1uLZCzG2Tw',
+  authDomain: 'kanban-c9606.firebaseapp.com',
+  databaseURL: 'https://kanban-c9606.firebaseio.com',
+  projectId: 'kanban-c9606',
   storageBucket: '',
-  messagingSenderId: '723392645847'
+  messagingSenderId: '387166278550'
 }
 
 const firebaseApp = firebase.initializeApp(config)
