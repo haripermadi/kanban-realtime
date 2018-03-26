@@ -11,8 +11,10 @@
               <div class="card-body">
                 <h6 class="card-title">Description:</h6>
                 <p class="card-text">{{task.description}} </p>
+                <hr>
                 <h6 class="card-title">Point:</h6>
                 <p class="card-text">{{task.point}}</p>
+                <hr>
                 <h6 class="card-title">Assigned To:</h6>
                 <p class="card-text">{{task.assigned}}</p>
               </div>
@@ -33,8 +35,10 @@
               <div class="card-body">
                 <h6 class="card-title">Description:</h6>
                 <p class="card-text">{{task.description}} </p>
+                <hr>
                 <h6 class="card-title">Point:</h6>
                 <p class="card-text">{{task.point}}</p>
+                <hr>
                 <h6 class="card-title">Assigned To:</h6>
                 <p class="card-text">{{task.assigned}}</p>
               </div>
@@ -56,8 +60,10 @@
               <div class="card-body">
                 <h6 class="card-title">Description:</h6>
                 <p class="card-text">{{task.description}} </p>
+                <hr>
                 <h6 class="card-title">Point:</h6>
                 <p class="card-text">{{task.point}}</p>
+                <hr>
                 <h6 class="card-title">Assigned To:</h6>
                 <p class="card-text">{{task.assigned}}</p>
               </div>
@@ -79,8 +85,10 @@
               <div class="card-body">
                 <h6 class="card-title">Description:</h6>
                 <p class="card-text">{{task.description}} </p>
+                <hr>
                 <h6 class="card-title">Point:</h6>
                 <p class="card-text">{{task.point}}</p>
+                <hr>
                 <h6 class="card-title">Assigned To:</h6>
                 <p class="card-text">{{task.assigned}}</p>
               </div>
@@ -274,6 +282,9 @@ export default {
 }
 .bg-done {
   background-color: #3f681c;
+}
+.card-body{
+  text-align: left;
 }
 
 </style>
